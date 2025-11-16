@@ -1,0 +1,501 @@
+Client_ID,Age,Filing_Status,Income_Bracket,State,Client_Type,Self_Employed,Tax_Year,Appointment_Date,Service_Type,Acquisition_Channel,Base_Fee,Extra_Services_Fee,Total_Fee,Refund_Amount,Prep_Time_Minutes,Satisfaction_Rating,Completed_On_Time,Upsell_Bookkeeping,Upsell_Tax_Planning,Repeat_Next_Year_Likelihood
+C0001,60,Married Filing Separately,<40k,NV,Returning,Yes,2023,2024-04-01,Individual 1040,Google Search,237,0,237,0.0,51,5,No,Yes,No,High
+C0002,43,Single,<40k,GA,New,No,2023,2024-06-08,Individual 1040,Google Search,200,0,200,1480.44,83,5,Yes,Yes,No,High
+C0003,30,Single,<40k,AZ,Returning,No,2023,2024-02-24,Individual 1040,Referral,199,50,249,1667.09,30,3,No,No,No,High
+C0004,35,Married Filing Jointly,40k-80k,AZ,Returning,No,2023,2024-01-24,Amendment,Facebook,230,100,330,0.0,52,3,Yes,Yes,No,High
+C0005,65,Single,<40k,NY,Returning,No,2023,2024-09-03,Amendment,Google Search,160,150,310,0.0,104,4,Yes,No,No,Medium
+C0006,56,Married Filing Jointly,<40k,NY,Returning,No,2023,2024-04-02,Amendment,Referral,256,50,306,0.0,50,5,Yes,No,No,Medium
+C0007,60,Single,80k-150k,FL,Returning,No,2023,2024-01-07,Small Business,Instagram,1031,100,1131,857.7,83,3,Yes,No,No,High
+C0008,60,Head of Household,40k-80k,CO,Returning,No,2023,2024-02-20,Individual 1040,Referral,286,0,286,0.0,97,3,Yes,No,No,Low
+C0009,73,Single,80k-150k,NY,New,Yes,2023,2024-01-07,Individual 1040,Walk-In,279,0,279,851.95,68,5,Yes,No,No,High
+C0010,32,Single,<40k,IL,Returning,No,2023,2024-05-23,Small Business,Referral,1101,100,1201,414.05,45,5,Yes,No,No,High
+C0011,41,Married Filing Jointly,<40k,CA,Returning,No,2023,2024-04-08,Amendment,Walk-In,297,150,447,221.63,88,5,Yes,No,No,Low
+C0012,33,Married Filing Jointly,150k-300k,AZ,New,No,2023,2024-03-09,Small Business,Instagram,501,0,501,827.0,119,5,No,No,No,High
+C0013,56,Married Filing Jointly,<40k,CA,New,No,2023,2024-07-01,Individual 1040,Referral,284,50,334,1834.49,30,4,Yes,No,No,High
+C0014,29,Married Filing Jointly,80k-150k,CA,Returning,No,2023,2024-06-06,Individual 1040,Facebook,296,0,296,893.05,79,5,Yes,No,No,High
+C0015,52,Head of Household,150k-300k,WA,New,Yes,2023,2024-05-11,Individual 1040,Referral,372,100,472,717.56,47,3,Yes,No,No,Low
+C0016,69,Married Filing Jointly,40k-80k,GA,Returning,No,2023,2024-02-07,Tax Planning Session,Referral,492,50,542,122.03,71,1,Yes,No,No,Medium
+C0017,43,Married Filing Jointly,<40k,FL,New,No,2023,2024-10-11,Individual 1040,Referral,413,100,513,0.0,43,2,Yes,No,No,High
+C0018,34,Head of Household,80k-150k,NY,Returning,Yes,2023,2024-01-13,Individual 1040,Google Search,378,0,378,818.57,55,2,No,No,No,Low
+C0019,46,Married Filing Jointly,40k-80k,AZ,Returning,No,2023,2024-01-28,Small Business,Google Search,503,0,503,0.0,121,4,Yes,Yes,No,Medium
+C0020,31,Head of Household,150k-300k,FL,Returning,No,2023,2024-03-09,Individual 1040,Instagram,153,50,203,572.03,98,5,Yes,Yes,No,High
+C0021,33,Single,300k+,GA,New,Yes,2023,2024-07-24,Individual 1040,Referral,402,0,402,156.78,80,5,Yes,No,No,Medium
+C0022,74,Single,150k-300k,NV,Returning,No,2023,2024-03-04,Individual 1040,Google Search,341,0,341,92.38,84,4,Yes,No,No,High
+C0023,44,Married Filing Separately,<40k,CA,Returning,No,2023,2024-11-13,Individual 1040,Google Search,168,0,168,1283.17,59,5,Yes,No,No,Medium
+C0024,46,Married Filing Jointly,<40k,WA,Returning,No,2023,2024-01-10,Individual 1040,Referral,372,0,372,1759.61,116,5,Yes,No,No,High
+C0025,67,Married Filing Jointly,<40k,TX,Returning,Yes,2023,2024-07-20,Individual 1040,Google Search,285,0,285,2423.48,63,5,Yes,No,Yes,High
+C0026,60,Single,150k-300k,AZ,Returning,Yes,2023,2024-08-12,Individual 1040,Walk-In,297,0,297,561.36,54,4,No,No,No,High
+C0027,59,Single,150k-300k,WA,New,No,2023,2024-04-23,Tax Planning Session,Google Search,326,150,476,1537.88,85,4,Yes,No,No,Low
+C0028,33,Head of Household,<40k,IL,Returning,No,2023,2024-01-22,Individual 1040,Google Search,239,0,239,894.48,53,3,Yes,Yes,No,Medium
+C0029,34,Married Filing Jointly,<40k,NY,Returning,No,2023,2024-02-10,Small Business,Walk-In,799,0,799,0.0,100,4,Yes,No,No,Medium
+C0030,47,Single,300k+,CA,Returning,No,2023,2024-12-28,Individual 1040,Google Search,155,50,205,1219.43,80,4,Yes,No,No,Medium
+C0031,30,Single,300k+,FL,New,No,2023,2024-02-04,Small Business,Referral,421,0,421,0.0,68,4,Yes,No,Yes,High
+C0032,38,Single,<40k,WA,Returning,No,2023,2024-03-15,Individual 1040,Google Search,401,200,601,2788.46,106,2,Yes,No,No,High
+C0033,51,Married Filing Jointly,150k-300k,WA,Returning,No,2023,2024-04-12,Amendment,Facebook,203,0,203,396.9,85,4,Yes,Yes,Yes,Medium
+C0034,52,Single,80k-150k,FL,New,No,2023,2024-02-12,Audit Support,Referral,292,200,492,0.0,87,4,Yes,Yes,No,High
+C0035,33,Single,40k-80k,GA,Returning,Yes,2023,2024-02-09,Amendment,Walk-In,175,100,275,825.68,59,3,Yes,No,No,Medium
+C0036,44,Married Filing Jointly,80k-150k,GA,New,Yes,2023,2024-05-22,Small Business,Instagram,1099,50,1149,0.0,33,5,Yes,No,No,Low
+C0037,65,Single,40k-80k,CO,Returning,No,2023,2024-04-20,Individual 1040,Google Search,260,50,310,3167.58,109,4,Yes,No,No,Medium
+C0038,66,Single,150k-300k,WA,New,Yes,2023,2024-04-18,Individual 1040,Google Search,244,0,244,0.0,78,5,Yes,No,No,High
+C0039,32,Married Filing Jointly,40k-80k,WA,New,No,2023,2024-05-06,Individual 1040,Referral,262,0,262,0.0,94,4,No,No,No,Medium
+C0040,31,Married Filing Jointly,40k-80k,TX,New,No,2023,2024-03-09,Individual 1040,Walk-In,422,0,422,3411.9,59,2,Yes,No,No,High
+C0041,32,Head of Household,<40k,NY,Returning,No,2023,2024-12-21,Individual 1040,Facebook,416,100,516,0.0,64,5,Yes,No,No,High
+C0042,46,Married Filing Jointly,40k-80k,NV,Returning,No,2023,2024-05-08,Individual 1040,Facebook,292,0,292,531.6,34,2,Yes,No,No,Medium
+C0043,72,Single,<40k,CA,Returning,No,2023,2024-05-27,Amendment,Google Search,216,50,266,0.0,84,5,Yes,No,Yes,High
+C0044,68,Head of Household,<40k,NV,Returning,No,2023,2024-06-02,Individual 1040,Referral,322,50,372,2608.72,100,3,Yes,No,No,Medium
+C0045,29,Single,40k-80k,GA,Returning,No,2023,2024-02-02,Small Business,Google Search,1177,0,1177,1002.49,91,2,Yes,Yes,No,High
+C0046,22,Single,300k+,FL,New,No,2023,2024-07-13,Audit Support,Referral,598,0,598,321.0,64,1,Yes,No,No,High
+C0047,23,Married Filing Jointly,40k-80k,CA,Returning,Yes,2023,2024-02-07,Tax Planning Session,Google Search,204,0,204,802.22,71,4,Yes,Yes,No,Medium
+C0048,41,Married Filing Jointly,80k-150k,IL,New,No,2023,2024-09-19,Individual 1040,Walk-In,290,0,290,1709.82,66,4,Yes,No,No,High
+C0049,22,Married Filing Separately,40k-80k,TX,Returning,No,2023,2024-08-11,Individual 1040,Facebook,281,0,281,373.99,55,4,Yes,Yes,No,High
+C0050,22,Married Filing Jointly,40k-80k,AZ,Returning,Yes,2023,2024-02-16,Individual 1040,Facebook,216,100,316,2873.33,86,5,Yes,No,No,High
+C0051,42,Single,40k-80k,TX,New,Yes,2023,2024-03-30,Individual 1040,Google Search,185,50,235,1921.91,81,4,Yes,No,Yes,High
+C0052,58,Single,80k-150k,TX,Returning,Yes,2023,2024-04-05,Tax Planning Session,Facebook,260,100,360,885.91,74,4,Yes,No,No,High
+C0053,60,Single,80k-150k,FL,New,No,2023,2024-02-08,Small Business,Walk-In,1187,150,1337,497.92,50,4,Yes,No,Yes,Low
+C0054,42,Single,40k-80k,NV,New,No,2023,2024-06-18,Individual 1040,Walk-In,339,0,339,1221.59,79,3,Yes,No,No,High
+C0055,60,Married Filing Jointly,150k-300k,AZ,Returning,No,2023,2024-02-19,Small Business,Google Search,897,0,897,541.78,67,5,Yes,No,No,Medium
+C0056,61,Married Filing Jointly,40k-80k,NV,Returning,Yes,2023,2024-03-19,Amendment,Facebook,291,150,441,892.86,60,5,Yes,No,Yes,High
+C0057,40,Married Filing Jointly,150k-300k,AZ,Returning,No,2023,2024-03-08,Tax Planning Session,Website,447,0,447,0.0,78,5,Yes,No,No,High
+C0058,39,Married Filing Jointly,<40k,NY,New,No,2023,2024-12-05,Individual 1040,Walk-In,257,0,257,1677.71,63,5,Yes,No,No,High
+C0059,46,Married Filing Jointly,40k-80k,GA,Returning,No,2023,2024-04-03,Individual 1040,Website,400,100,500,2070.72,76,5,Yes,No,No,High
+C0060,37,Head of Household,300k+,GA,New,No,2023,2024-06-28,Individual 1040,Facebook,326,0,326,0.0,52,3,Yes,Yes,No,Medium
+C0061,70,Single,<40k,GA,Returning,Yes,2023,2024-01-21,Small Business,Website,668,150,818,0.0,58,5,Yes,No,No,High
+C0062,66,Single,<40k,CO,New,Yes,2023,2024-02-22,Amendment,Referral,124,50,174,448.27,37,4,Yes,No,No,High
+C0063,24,Head of Household,<40k,NV,Returning,Yes,2023,2024-03-03,Audit Support,Instagram,466,100,566,93.61,65,5,Yes,No,No,High
+C0064,55,Single,40k-80k,NV,Returning,Yes,2023,2024-03-20,Individual 1040,Website,325,50,375,0.0,53,5,Yes,No,No,Medium
+C0065,27,Married Filing Jointly,150k-300k,CA,New,Yes,2023,2024-12-17,Individual 1040,Google Search,330,50,380,0.0,91,5,Yes,Yes,No,Medium
+C0066,64,Single,150k-300k,TX,Returning,No,2023,2024-02-18,Individual 1040,Google Search,373,0,373,0.0,30,4,Yes,No,Yes,Medium
+C0067,28,Married Filing Jointly,300k+,WA,New,No,2023,2024-08-01,Small Business,Google Search,1080,0,1080,775.95,99,2,Yes,No,No,High
+C0068,33,Married Filing Jointly,<40k,AZ,New,No,2023,2024-05-04,Individual 1040,Instagram,207,0,207,1409.61,44,2,Yes,No,No,Medium
+C0069,53,Single,80k-150k,IL,New,No,2023,2024-05-18,Tax Planning Session,Google Search,200,150,350,228.16,113,4,Yes,No,Yes,High
+C0070,45,Single,150k-300k,NV,New,Yes,2023,2024-06-25,Individual 1040,Google Search,176,100,276,0.0,108,1,No,No,No,Medium
+C0071,35,Married Filing Jointly,80k-150k,FL,Returning,Yes,2023,2024-04-04,Individual 1040,Google Search,266,0,266,0.0,73,4,Yes,No,No,High
+C0072,32,Married Filing Jointly,150k-300k,IL,Returning,No,2023,2024-02-06,Small Business,Google Search,937,200,1137,398.2,46,5,Yes,Yes,No,High
+C0073,54,Head of Household,<40k,FL,Returning,No,2023,2024-03-31,Tax Planning Session,Google Search,301,100,401,0.0,63,4,Yes,Yes,No,Low
+C0074,53,Single,150k-300k,NV,Returning,No,2023,2024-05-24,Individual 1040,Instagram,156,50,206,1477.94,104,4,Yes,Yes,No,High
+C0075,33,Single,<40k,NY,New,No,2023,2024-02-17,Individual 1040,Google Search,268,0,268,1904.79,30,2,Yes,No,No,Medium
+C0076,28,Married Filing Jointly,150k-300k,GA,Returning,No,2023,2024-06-17,Individual 1040,Referral,169,0,169,876.15,148,1,Yes,No,No,High
+C0077,60,Single,80k-150k,IL,Returning,No,2023,2024-09-28,Individual 1040,Instagram,374,0,374,0.0,81,3,No,No,No,Medium
+C0078,68,Married Filing Jointly,80k-150k,FL,Returning,Yes,2023,2024-04-27,Individual 1040,Website,215,100,315,910.13,72,4,Yes,No,No,High
+C0079,37,Married Filing Jointly,40k-80k,CO,Returning,Yes,2023,2024-04-20,Small Business,Facebook,925,0,925,1102.27,34,4,Yes,No,No,High
+C0080,27,Single,<40k,TX,Returning,Yes,2023,2024-02-12,Individual 1040,Google Search,150,0,150,2086.11,72,4,Yes,Yes,No,High
+C0081,64,Single,40k-80k,CO,Returning,Yes,2023,2024-06-18,Individual 1040,Referral,443,0,443,749.23,91,5,Yes,No,No,High
+C0082,43,Single,80k-150k,AZ,Returning,No,2023,2024-10-30,Individual 1040,Walk-In,285,100,385,658.78,81,5,Yes,No,No,High
+C0083,62,Single,80k-150k,TX,Returning,No,2023,2024-04-01,Audit Support,Website,468,100,568,1206.86,86,4,Yes,No,No,High
+C0084,62,Single,150k-300k,CA,New,No,2023,2024-04-16,Individual 1040,Referral,225,50,275,0.0,101,4,Yes,No,Yes,High
+C0085,29,Married Filing Jointly,80k-150k,CO,Returning,No,2023,2024-01-30,Individual 1040,Referral,266,100,366,0.0,79,4,Yes,No,No,High
+C0086,42,Single,<40k,WA,Returning,Yes,2023,2024-03-27,Tax Planning Session,Google Search,456,0,456,166.59,64,4,Yes,No,No,High
+C0087,63,Married Filing Jointly,80k-150k,CA,Returning,No,2023,2024-07-08,Individual 1040,Google Search,257,0,257,0.0,80,4,Yes,No,No,High
+C0088,22,Single,40k-80k,AZ,Returning,No,2023,2024-01-29,Small Business,Facebook,1132,50,1182,974.71,67,4,Yes,No,No,High
+C0089,60,Married Filing Jointly,<40k,FL,New,No,2023,2024-04-03,Individual 1040,Google Search,257,100,357,0.0,71,4,Yes,No,No,Medium
+C0090,46,Head of Household,<40k,WA,Returning,No,2023,2024-01-16,Individual 1040,Facebook,429,0,429,1742.15,61,3,Yes,Yes,No,Low
+C0091,29,Single,40k-80k,AZ,New,No,2023,2024-07-25,Individual 1040,Instagram,176,50,226,2005.03,36,3,Yes,No,Yes,Medium
+C0092,59,Married Filing Jointly,80k-150k,FL,New,No,2023,2024-04-05,Tax Planning Session,Google Search,466,100,566,236.58,45,5,Yes,No,No,High
+C0093,51,Single,40k-80k,NV,New,No,2023,2024-02-16,Amendment,Google Search,149,0,149,25.41,80,3,Yes,No,No,Low
+C0094,54,Single,40k-80k,CO,New,No,2023,2024-10-06,Small Business,Referral,529,0,529,624.51,61,4,Yes,No,No,High
+C0095,66,Single,150k-300k,IL,New,Yes,2023,2024-02-28,Amendment,Referral,282,0,282,0.0,107,4,Yes,Yes,No,High
+C0096,35,Single,150k-300k,FL,Returning,No,2023,2024-04-07,Individual 1040,Referral,174,0,174,520.93,50,5,Yes,No,Yes,Low
+C0097,23,Married Filing Jointly,<40k,NY,Returning,Yes,2023,2024-09-25,Individual 1040,Referral,327,0,327,0.0,64,4,Yes,No,Yes,High
+C0098,60,Single,<40k,FL,New,No,2023,2024-05-07,Amendment,Facebook,235,0,235,0.0,108,4,Yes,No,No,Medium
+C0099,48,Single,80k-150k,WA,Returning,Yes,2023,2024-05-13,Individual 1040,Google Search,362,100,462,0.0,87,1,Yes,No,No,Medium
+C0100,74,Married Filing Jointly,<40k,FL,New,No,2023,2024-12-21,Amendment,Walk-In,276,0,276,542.44,80,5,Yes,No,No,Medium
+C0101,31,Head of Household,40k-80k,NV,Returning,No,2023,2024-03-29,Small Business,Instagram,549,0,549,338.11,99,2,No,No,Yes,Low
+C0102,44,Married Filing Jointly,<40k,NV,New,Yes,2023,2024-04-04,Individual 1040,Referral,377,0,377,0.0,103,3,Yes,No,No,Medium
+C0103,59,Single,40k-80k,CA,New,No,2023,2024-02-03,Small Business,Referral,910,0,910,294.33,72,4,Yes,No,Yes,High
+C0104,23,Married Filing Jointly,80k-150k,TX,New,No,2023,2024-03-19,Tax Planning Session,Google Search,332,0,332,0.0,99,3,No,No,No,Low
+C0105,42,Single,150k-300k,AZ,Returning,Yes,2023,2024-04-19,Individual 1040,Walk-In,298,200,498,0.0,114,2,Yes,No,No,Medium
+C0106,34,Single,<40k,FL,Returning,Yes,2023,2024-02-03,Individual 1040,Instagram,427,0,427,1692.6,140,4,Yes,No,No,High
+C0107,68,Single,80k-150k,NV,New,No,2023,2024-05-02,Tax Planning Session,Google Search,403,100,503,0.0,101,5,Yes,No,No,High
+C0108,57,Single,80k-150k,IL,Returning,Yes,2023,2024-02-02,Small Business,Facebook,369,0,369,172.91,54,5,Yes,No,No,High
+C0109,56,Single,80k-150k,IL,Returning,Yes,2023,2024-08-03,Small Business,Referral,406,0,406,890.24,68,5,Yes,No,No,Low
+C0110,45,Married Filing Jointly,150k-300k,NY,Returning,Yes,2023,2024-04-09,Individual 1040,Referral,179,200,379,676.64,62,4,Yes,No,No,Medium
+C0111,70,Married Filing Jointly,80k-150k,CO,Returning,No,2023,2024-05-07,Individual 1040,Walk-In,389,0,389,1410.06,96,3,Yes,No,Yes,High
+C0112,51,Head of Household,40k-80k,CA,Returning,No,2023,2024-04-24,Individual 1040,Instagram,218,100,318,1910.88,61,4,Yes,Yes,No,High
+C0113,22,Married Filing Separately,<40k,CO,New,No,2023,2024-10-19,Individual 1040,Facebook,301,0,301,736.75,51,5,Yes,No,No,Medium
+C0114,30,Married Filing Jointly,<40k,FL,Returning,No,2023,2024-04-08,Individual 1040,Referral,156,0,156,2129.58,52,3,Yes,No,No,High
+C0115,35,Married Filing Jointly,300k+,TX,New,No,2023,2024-06-26,Individual 1040,Referral,310,0,310,32.7,54,4,Yes,Yes,No,High
+C0116,62,Married Filing Separately,40k-80k,TX,New,No,2023,2024-03-04,Individual 1040,Google Search,151,50,201,1339.32,71,4,Yes,No,No,Medium
+C0117,31,Head of Household,80k-150k,CA,New,Yes,2023,2024-01-14,Individual 1040,Referral,363,0,363,0.0,54,3,No,No,No,Medium
+C0118,23,Single,40k-80k,NV,New,No,2023,2024-03-14,Amendment,Referral,142,100,242,1054.74,60,3,Yes,No,No,Medium
+C0119,42,Single,80k-150k,NV,Returning,No,2023,2024-03-24,Small Business,Google Search,1197,100,1297,267.23,87,3,Yes,No,No,High
+C0120,64,Single,80k-150k,IL,Returning,Yes,2023,2024-01-21,Small Business,Referral,478,0,478,0.0,85,4,Yes,Yes,No,High
+C0121,46,Head of Household,<40k,WA,Returning,No,2023,2024-12-04,Individual 1040,Website,283,50,333,1257.07,30,4,Yes,No,No,Medium
+C0122,47,Single,<40k,GA,New,Yes,2023,2024-01-24,Individual 1040,Referral,224,50,274,285.24,106,4,No,No,Yes,High
+C0123,23,Single,<40k,AZ,New,No,2023,2024-03-28,Tax Planning Session,Google Search,307,50,357,463.19,123,3,Yes,No,No,High
+C0124,33,Single,150k-300k,TX,Returning,No,2023,2024-01-07,Individual 1040,Google Search,195,0,195,470.41,102,5,Yes,No,Yes,High
+C0125,47,Head of Household,<40k,CO,New,No,2023,2024-02-15,Amendment,Instagram,292,150,442,0.0,102,3,Yes,Yes,No,Medium
+C0126,61,Single,<40k,CA,Returning,No,2023,2024-02-06,Small Business,Google Search,683,50,733,614.16,97,5,Yes,Yes,No,High
+C0127,51,Single,40k-80k,TX,Returning,No,2023,2024-02-08,Individual 1040,Google Search,321,0,321,2280.16,87,4,Yes,No,No,High
+C0128,68,Single,40k-80k,FL,Returning,No,2023,2024-08-03,Small Business,Walk-In,1018,50,1068,0.0,84,5,No,No,No,High
+C0129,62,Married Filing Jointly,80k-150k,IL,Returning,Yes,2023,2024-03-28,Individual 1040,Walk-In,432,0,432,0.0,30,4,Yes,No,No,Low
+C0130,67,Single,150k-300k,FL,New,No,2023,2024-08-04,Amendment,Walk-In,181,0,181,109.61,96,4,Yes,No,Yes,High
+C0131,67,Head of Household,<40k,CA,Returning,No,2023,2024-01-18,Audit Support,Walk-In,308,50,358,860.62,61,5,Yes,No,Yes,Medium
+C0132,44,Single,150k-300k,TX,New,No,2023,2024-07-03,Individual 1040,Referral,296,0,296,859.87,77,4,Yes,No,No,High
+C0133,72,Married Filing Jointly,<40k,TX,New,Yes,2023,2024-09-28,Individual 1040,Google Search,304,50,354,2525.68,77,5,Yes,No,No,Low
+C0134,36,Single,<40k,CA,New,No,2023,2024-02-14,Amendment,Google Search,140,50,190,1320.11,56,4,Yes,No,No,High
+C0135,49,Married Filing Jointly,80k-150k,AZ,New,No,2023,2024-03-07,Individual 1040,Walk-In,249,0,249,0.0,152,4,Yes,No,No,Medium
+C0136,31,Married Filing Jointly,80k-150k,CA,New,No,2023,2024-08-29,Individual 1040,Instagram,353,0,353,0.0,85,2,Yes,No,No,Medium
+C0137,27,Married Filing Separately,40k-80k,GA,Returning,Yes,2023,2024-01-13,Tax Planning Session,Referral,266,0,266,0.0,78,4,Yes,Yes,No,High
+C0138,26,Single,80k-150k,TX,New,Yes,2023,2024-01-13,Amendment,Referral,217,0,217,0.0,53,4,Yes,No,Yes,High
+C0139,68,Head of Household,<40k,CA,Returning,No,2023,2024-02-26,Individual 1040,Facebook,424,0,424,1127.75,72,4,Yes,No,No,High
+C0140,66,Married Filing Jointly,<40k,IL,Returning,Yes,2023,2024-06-10,Amendment,Google Search,165,0,165,0.0,75,4,Yes,No,No,High
+C0141,44,Single,40k-80k,CO,Returning,No,2023,2024-03-31,Audit Support,Referral,291,100,391,607.35,112,3,Yes,No,No,High
+C0142,53,Single,40k-80k,NY,Returning,No,2023,2024-05-26,Small Business,Website,1069,100,1169,439.5,101,4,Yes,No,No,High
+C0143,51,Single,300k+,NV,Returning,Yes,2023,2024-04-23,Individual 1040,Google Search,441,100,541,79.26,85,5,Yes,No,No,High
+C0144,61,Single,80k-150k,FL,Returning,Yes,2023,2024-03-07,Individual 1040,Google Search,337,0,337,470.45,83,3,Yes,Yes,No,High
+C0145,52,Single,40k-80k,NV,New,Yes,2023,2024-02-02,Individual 1040,Google Search,380,0,380,2008.33,44,4,Yes,No,Yes,High
+C0146,44,Head of Household,40k-80k,FL,Returning,Yes,2023,2024-04-18,Small Business,Google Search,761,0,761,0.0,49,2,No,No,No,Low
+C0147,55,Single,80k-150k,CO,Returning,No,2023,2024-01-11,Individual 1040,Referral,303,50,353,1431.0,80,4,Yes,No,Yes,High
+C0148,22,Single,80k-150k,TX,New,No,2023,2024-01-19,Audit Support,Referral,376,0,376,0.0,86,1,Yes,No,No,High
+C0149,68,Single,80k-150k,WA,Returning,No,2023,2024-03-30,Tax Planning Session,Facebook,273,0,273,1520.57,64,2,Yes,No,No,Medium
+C0150,69,Single,40k-80k,CO,New,No,2023,2024-08-06,Individual 1040,Instagram,180,50,230,2247.03,66,4,Yes,No,Yes,Medium
+C0151,29,Married Filing Jointly,80k-150k,IL,Returning,No,2023,2024-01-17,Small Business,Google Search,705,0,705,456.73,67,5,Yes,Yes,No,Medium
+C0152,59,Single,<40k,FL,Returning,Yes,2023,2024-01-06,Small Business,Referral,1129,0,1129,390.37,68,4,Yes,No,No,High
+C0153,61,Single,150k-300k,IL,New,No,2023,2024-01-03,Amendment,Google Search,253,0,253,0.0,42,3,Yes,No,No,High
+C0154,34,Head of Household,150k-300k,CO,Returning,No,2023,2024-05-08,Small Business,Google Search,394,0,394,0.0,70,3,Yes,No,No,Low
+C0155,47,Head of Household,<40k,NV,Returning,No,2023,2024-03-31,Tax Planning Session,Google Search,412,0,412,784.17,111,5,Yes,No,No,High
+C0156,25,Single,80k-150k,CA,New,No,2023,2024-09-08,Individual 1040,Referral,196,0,196,1568.71,102,4,Yes,Yes,No,Medium
+C0157,55,Single,40k-80k,WA,Returning,No,2023,2024-04-02,Tax Planning Session,Facebook,257,0,257,0.0,72,4,Yes,Yes,No,High
+C0158,34,Married Filing Jointly,40k-80k,IL,New,No,2023,2024-04-14,Individual 1040,Referral,336,200,536,221.5,86,4,Yes,No,No,Medium
+C0159,72,Married Filing Jointly,40k-80k,CA,Returning,No,2023,2024-04-19,Tax Planning Session,Facebook,320,100,420,0.0,101,4,Yes,No,No,High
+C0160,65,Single,<40k,WA,Returning,No,2023,2024-04-30,Amendment,Google Search,289,0,289,0.0,92,4,Yes,No,No,Medium
+C0161,30,Single,300k+,TX,Returning,Yes,2023,2024-02-22,Amendment,Referral,267,100,367,0.0,100,3,Yes,No,No,Medium
+C0162,47,Head of Household,<40k,GA,Returning,No,2023,2024-05-08,Individual 1040,Website,427,100,527,267.8,124,4,Yes,No,No,High
+C0163,28,Head of Household,40k-80k,FL,Returning,No,2023,2024-02-05,Individual 1040,Google Search,190,0,190,1155.92,77,4,Yes,No,No,Low
+C0164,48,Head of Household,40k-80k,TX,Returning,No,2023,2024-05-10,Amendment,Referral,296,0,296,0.0,33,3,Yes,Yes,No,Medium
+C0165,58,Married Filing Jointly,<40k,AZ,New,No,2023,2024-03-30,Individual 1040,Google Search,187,50,237,632.95,120,4,Yes,No,No,Medium
+C0166,69,Head of Household,150k-300k,AZ,New,No,2023,2024-06-03,Individual 1040,Google Search,421,0,421,0.0,84,5,Yes,No,Yes,Medium
+C0167,25,Head of Household,80k-150k,WA,Returning,No,2023,2024-01-20,Small Business,Google Search,430,150,580,667.25,97,4,No,No,No,High
+C0168,38,Single,<40k,CO,New,No,2023,2024-12-04,Tax Planning Session,Instagram,242,100,342,45.31,121,4,Yes,No,No,High
+C0169,70,Single,150k-300k,NV,Returning,No,2023,2024-01-07,Amendment,Google Search,178,0,178,553.2,121,4,Yes,No,Yes,High
+C0170,56,Head of Household,<40k,GA,Returning,No,2023,2024-04-05,Small Business,Referral,371,50,421,75.3,94,4,Yes,No,Yes,High
+C0171,54,Married Filing Jointly,40k-80k,WA,Returning,No,2023,2024-10-29,Individual 1040,Facebook,218,0,218,937.08,98,5,Yes,Yes,No,High
+C0172,34,Married Filing Separately,80k-150k,AZ,New,No,2023,2024-01-08,Amendment,Google Search,148,0,148,386.36,68,2,Yes,No,No,Low
+C0173,41,Single,40k-80k,AZ,New,Yes,2023,2024-03-06,Individual 1040,Google Search,273,0,273,846.08,85,3,No,Yes,No,High
+C0174,40,Married Filing Jointly,80k-150k,WA,New,No,2023,2024-03-18,Individual 1040,Walk-In,197,0,197,0.0,79,3,Yes,No,No,Medium
+C0175,72,Head of Household,<40k,IL,Returning,No,2023,2024-05-20,Individual 1040,Walk-In,217,150,367,0.0,76,5,Yes,No,Yes,High
+C0176,31,Single,40k-80k,NY,Returning,Yes,2023,2024-12-26,Amendment,Instagram,251,0,251,1274.79,109,3,Yes,Yes,Yes,High
+C0177,53,Head of Household,<40k,CA,New,Yes,2023,2024-04-01,Individual 1040,Google Search,210,0,210,1868.26,41,4,Yes,No,No,High
+C0178,34,Married Filing Separately,40k-80k,IL,Returning,No,2023,2024-05-18,Individual 1040,Google Search,358,150,508,2358.38,134,4,Yes,No,No,High
+C0179,64,Married Filing Jointly,150k-300k,NV,Returning,No,2023,2024-02-22,Tax Planning Session,Google Search,242,0,242,206.43,73,4,Yes,No,No,Medium
+C0180,24,Single,80k-150k,CA,Returning,Yes,2023,2024-01-29,Individual 1040,Facebook,170,50,220,1385.34,88,5,Yes,No,No,High
+C0181,46,Single,40k-80k,FL,Returning,No,2023,2024-02-04,Individual 1040,Instagram,185,50,235,0.0,55,4,No,Yes,No,Medium
+C0182,62,Head of Household,80k-150k,CA,New,No,2023,2024-08-24,Individual 1040,Google Search,434,0,434,1856.84,59,4,Yes,No,No,High
+C0183,65,Married Filing Jointly,<40k,CA,New,No,2023,2024-04-09,Small Business,Instagram,983,0,983,291.49,67,4,Yes,Yes,No,Medium
+C0184,36,Married Filing Jointly,80k-150k,CO,Returning,No,2023,2024-02-07,Individual 1040,Walk-In,324,100,424,529.26,48,4,Yes,No,No,High
+C0185,50,Single,300k+,CA,New,No,2023,2024-05-07,Audit Support,Google Search,504,150,654,668.66,108,5,Yes,No,No,High
+C0186,37,Single,80k-150k,NV,Returning,No,2023,2024-05-28,Audit Support,Google Search,563,0,563,0.0,110,5,Yes,No,Yes,Medium
+C0187,61,Single,40k-80k,TX,New,No,2023,2024-02-16,Individual 1040,Referral,441,100,541,1788.54,75,4,No,No,No,Low
+C0188,24,Single,40k-80k,NV,New,No,2023,2024-02-28,Individual 1040,Facebook,271,0,271,1353.44,91,5,Yes,No,Yes,Medium
+C0189,69,Single,80k-150k,GA,Returning,No,2023,2024-01-21,Individual 1040,Walk-In,358,0,358,1301.19,52,5,Yes,No,Yes,Medium
+C0190,52,Married Filing Jointly,80k-150k,FL,Returning,No,2023,2024-03-09,Amendment,Referral,132,50,182,0.0,30,4,Yes,No,No,High
+C0191,37,Single,80k-150k,NY,Returning,No,2023,2024-01-11,Amendment,Google Search,157,0,157,0.0,93,4,Yes,No,No,High
+C0192,28,Single,80k-150k,FL,Returning,No,2023,2024-06-21,Amendment,Facebook,203,0,203,169.96,73,1,Yes,No,No,Low
+C0193,71,Married Filing Separately,40k-80k,NV,New,No,2023,2024-11-06,Tax Planning Session,Instagram,437,50,487,695.99,97,5,No,No,No,High
+C0194,24,Head of Household,<40k,CA,Returning,No,2023,2024-06-18,Amendment,Referral,277,0,277,0.0,92,5,Yes,No,Yes,High
+C0195,64,Single,150k-300k,WA,Returning,No,2023,2024-05-18,Small Business,Website,732,50,782,0.0,85,4,Yes,No,No,High
+C0196,26,Head of Household,300k+,FL,Returning,No,2023,2024-01-03,Tax Planning Session,Referral,467,0,467,994.76,104,5,Yes,No,No,High
+C0197,62,Single,80k-150k,CA,Returning,No,2023,2024-10-23,Individual 1040,Facebook,363,0,363,0.0,73,5,Yes,Yes,No,High
+C0198,41,Head of Household,40k-80k,NV,Returning,No,2023,2024-09-18,Small Business,Instagram,1183,150,1333,1277.74,114,2,Yes,No,Yes,Medium
+C0199,73,Single,80k-150k,AZ,Returning,No,2023,2024-01-12,Small Business,Referral,564,0,564,544.33,76,5,Yes,No,Yes,High
+C0200,70,Married Filing Jointly,150k-300k,NY,Returning,No,2023,2024-04-05,Individual 1040,Google Search,400,0,400,0.0,67,3,No,No,No,Medium
+C0201,44,Married Filing Separately,40k-80k,NV,New,Yes,2023,2024-03-02,Amendment,Referral,283,50,333,210.3,83,5,Yes,Yes,No,Medium
+C0202,49,Married Filing Jointly,<40k,IL,Returning,No,2023,2024-03-29,Individual 1040,Google Search,294,0,294,1467.4,79,3,Yes,No,No,Medium
+C0203,33,Married Filing Separately,150k-300k,AZ,Returning,No,2023,2024-10-28,Audit Support,Referral,418,0,418,1452.92,65,5,Yes,Yes,No,Medium
+C0204,60,Married Filing Jointly,80k-150k,NV,New,No,2023,2024-01-12,Individual 1040,Walk-In,337,0,337,160.04,91,4,Yes,Yes,No,Medium
+C0205,51,Head of Household,40k-80k,IL,Returning,Yes,2023,2024-02-08,Tax Planning Session,Website,251,0,251,53.51,95,5,Yes,No,No,Medium
+C0206,73,Married Filing Jointly,<40k,WA,Returning,Yes,2023,2024-05-12,Individual 1040,Google Search,276,50,326,0.0,61,3,Yes,No,No,Medium
+C0207,48,Single,40k-80k,NV,Returning,No,2023,2024-06-29,Small Business,Google Search,505,100,605,377.63,44,4,No,No,No,High
+C0208,34,Married Filing Jointly,80k-150k,AZ,Returning,Yes,2023,2024-08-20,Small Business,Referral,713,0,713,0.0,118,3,Yes,No,No,Low
+C0209,54,Married Filing Separately,150k-300k,NV,New,Yes,2023,2024-06-30,Individual 1040,Instagram,339,0,339,0.0,96,4,Yes,No,No,Medium
+C0210,59,Single,150k-300k,IL,New,Yes,2023,2024-09-28,Individual 1040,Google Search,298,150,448,652.7,79,4,Yes,No,No,High
+C0211,72,Married Filing Jointly,40k-80k,CA,New,No,2023,2024-02-26,Individual 1040,Facebook,254,0,254,2611.97,67,3,Yes,No,Yes,High
+C0212,54,Head of Household,<40k,TX,Returning,Yes,2023,2024-07-29,Individual 1040,Google Search,225,0,225,984.49,30,3,Yes,Yes,No,Medium
+C0213,61,Married Filing Jointly,150k-300k,WA,New,No,2023,2024-03-06,Amendment,Referral,224,50,274,0.0,36,5,No,No,No,Medium
+C0214,46,Married Filing Jointly,150k-300k,WA,Returning,No,2023,2024-05-11,Individual 1040,Facebook,443,50,493,787.88,109,4,Yes,Yes,Yes,Low
+C0215,48,Head of Household,150k-300k,IL,Returning,No,2023,2024-06-14,Individual 1040,Walk-In,329,0,329,0.0,87,4,Yes,Yes,No,Medium
+C0216,30,Head of Household,80k-150k,NV,New,No,2023,2024-07-28,Individual 1040,Google Search,239,100,339,0.0,114,4,Yes,Yes,No,Medium
+C0217,55,Single,<40k,CA,Returning,Yes,2023,2024-05-08,Small Business,Google Search,540,50,590,0.0,86,5,Yes,Yes,Yes,High
+C0218,34,Single,40k-80k,IL,Returning,Yes,2023,2024-02-26,Individual 1040,Walk-In,432,100,532,0.0,58,5,Yes,No,No,High
+C0219,47,Single,<40k,TX,Returning,No,2023,2024-05-13,Small Business,Google Search,733,0,733,0.0,76,5,Yes,No,No,High
+C0220,65,Head of Household,80k-150k,CA,Returning,No,2023,2024-08-28,Individual 1040,Facebook,277,50,327,0.0,58,3,Yes,Yes,No,Low
+C0221,66,Married Filing Jointly,<40k,NV,Returning,No,2023,2024-03-07,Tax Planning Session,Google Search,443,0,443,0.0,58,3,Yes,No,Yes,High
+C0222,60,Married Filing Jointly,150k-300k,AZ,Returning,No,2023,2024-07-15,Amendment,Referral,123,100,223,0.0,75,4,Yes,No,Yes,High
+C0223,24,Head of Household,80k-150k,FL,New,Yes,2023,2024-03-27,Individual 1040,Instagram,440,150,590,1708.0,63,5,Yes,No,No,High
+C0224,70,Single,<40k,GA,Returning,Yes,2023,2024-06-08,Individual 1040,Referral,179,100,279,1649.44,48,5,Yes,No,No,High
+C0225,46,Married Filing Jointly,80k-150k,TX,New,Yes,2023,2024-02-22,Amendment,Website,254,0,254,645.6,66,4,Yes,Yes,No,Medium
+C0226,74,Married Filing Jointly,150k-300k,CO,Returning,No,2023,2024-02-11,Individual 1040,Walk-In,395,0,395,875.77,49,5,Yes,No,Yes,High
+C0227,64,Head of Household,<40k,NV,New,Yes,2023,2024-02-03,Individual 1040,Google Search,267,0,267,0.0,55,4,Yes,No,No,High
+C0228,40,Single,<40k,WA,Returning,Yes,2023,2024-11-09,Individual 1040,Google Search,313,0,313,1437.41,72,4,Yes,No,No,High
+C0229,57,Head of Household,150k-300k,FL,New,Yes,2023,2024-03-17,Small Business,Instagram,684,100,784,889.21,88,3,Yes,No,No,Medium
+C0230,55,Single,40k-80k,AZ,New,Yes,2023,2024-03-27,Individual 1040,Facebook,338,50,388,152.24,30,5,Yes,No,Yes,High
+C0231,45,Head of Household,80k-150k,FL,Returning,No,2023,2024-04-01,Individual 1040,Referral,196,0,196,436.4,95,2,Yes,No,No,High
+C0232,33,Single,150k-300k,IL,Returning,No,2023,2024-01-09,Small Business,Referral,1027,0,1027,386.14,65,4,Yes,No,No,High
+C0233,66,Married Filing Jointly,150k-300k,CO,Returning,Yes,2023,2024-02-09,Small Business,Referral,422,0,422,0.0,122,3,Yes,No,No,Low
+C0234,33,Married Filing Jointly,<40k,AZ,Returning,Yes,2023,2024-01-20,Individual 1040,Walk-In,311,150,461,645.89,68,3,Yes,No,No,High
+C0235,54,Head of Household,80k-150k,IL,New,Yes,2023,2024-03-24,Individual 1040,Google Search,298,50,348,757.13,76,4,Yes,No,No,Medium
+C0236,65,Head of Household,40k-80k,TX,New,No,2023,2024-06-14,Small Business,Google Search,555,0,555,0.0,56,4,Yes,No,No,High
+C0237,27,Head of Household,40k-80k,TX,Returning,No,2023,2024-04-17,Individual 1040,Google Search,361,0,361,0.0,83,2,Yes,No,No,Medium
+C0238,22,Single,80k-150k,IL,Returning,No,2023,2024-01-29,Individual 1040,Facebook,346,0,346,1560.49,101,5,Yes,No,No,Medium
+C0239,43,Single,40k-80k,IL,New,Yes,2023,2024-04-09,Small Business,Referral,976,0,976,0.0,133,2,Yes,No,No,Medium
+C0240,47,Single,150k-300k,TX,Returning,No,2023,2024-01-14,Individual 1040,Referral,369,100,469,572.54,107,4,Yes,No,Yes,High
+C0241,67,Single,150k-300k,WA,New,No,2023,2024-01-30,Individual 1040,Facebook,267,0,267,448.03,83,5,Yes,No,No,High
+C0242,71,Married Filing Jointly,300k+,GA,Returning,No,2023,2024-07-22,Individual 1040,Google Search,184,50,234,0.0,32,5,Yes,No,No,High
+C0243,73,Single,40k-80k,CO,Returning,No,2023,2024-05-24,Tax Planning Session,Google Search,317,0,317,0.0,76,3,Yes,No,Yes,Medium
+C0244,47,Single,<40k,TX,Returning,No,2023,2024-05-07,Individual 1040,Instagram,393,0,393,2189.31,78,3,Yes,Yes,No,Medium
+C0245,38,Married Filing Jointly,40k-80k,AZ,Returning,Yes,2023,2024-03-03,Individual 1040,Facebook,417,100,517,934.62,97,3,Yes,No,Yes,High
+C0246,29,Head of Household,40k-80k,TX,Returning,No,2023,2024-10-30,Small Business,Referral,578,100,678,0.0,103,1,Yes,No,No,Medium
+C0247,60,Single,<40k,NY,New,No,2023,2024-03-11,Amendment,Website,227,0,227,612.92,85,4,Yes,No,No,High
+C0248,46,Single,<40k,AZ,Returning,Yes,2023,2024-05-04,Small Business,Walk-In,778,100,878,649.54,89,5,Yes,No,No,Low
+C0249,24,Single,<40k,NY,New,No,2023,2024-05-10,Individual 1040,Referral,157,100,257,0.0,45,2,Yes,No,No,Medium
+C0250,34,Single,150k-300k,AZ,New,Yes,2023,2024-04-22,Individual 1040,Walk-In,150,0,150,0.0,131,5,No,No,No,High
+C0251,57,Single,300k+,WA,Returning,Yes,2023,2024-03-13,Individual 1040,Walk-In,295,50,345,973.77,56,5,Yes,Yes,No,Low
+C0252,47,Married Filing Jointly,80k-150k,AZ,Returning,Yes,2023,2024-05-18,Individual 1040,Google Search,215,0,215,704.13,56,4,Yes,No,No,Medium
+C0253,47,Head of Household,150k-300k,NV,Returning,No,2023,2024-02-14,Tax Planning Session,Google Search,454,0,454,122.97,114,5,Yes,No,Yes,High
+C0254,55,Married Filing Jointly,40k-80k,IL,Returning,No,2023,2024-05-13,Tax Planning Session,Google Search,352,0,352,1084.05,45,4,Yes,No,No,Medium
+C0255,60,Married Filing Jointly,80k-150k,TX,New,No,2023,2024-05-29,Individual 1040,Referral,283,0,283,0.0,113,4,Yes,No,No,High
+C0256,49,Married Filing Jointly,40k-80k,CO,New,No,2023,2024-02-19,Tax Planning Session,Google Search,254,0,254,0.0,73,4,Yes,No,No,Medium
+C0257,66,Married Filing Jointly,<40k,TX,Returning,No,2023,2024-03-18,Amendment,Referral,135,0,135,0.0,45,3,Yes,No,No,Medium
+C0258,42,Single,80k-150k,AZ,Returning,No,2023,2024-07-10,Small Business,Walk-In,949,0,949,1068.46,104,5,Yes,Yes,No,High
+C0259,41,Head of Household,150k-300k,FL,Returning,No,2023,2024-02-14,Individual 1040,Instagram,340,0,340,0.0,86,3,Yes,No,No,Medium
+C0260,30,Married Filing Separately,40k-80k,NV,Returning,No,2023,2024-06-20,Amendment,Google Search,276,0,276,746.43,93,5,Yes,Yes,No,High
+C0261,60,Married Filing Jointly,80k-150k,NY,New,No,2023,2024-04-15,Small Business,Facebook,1075,0,1075,0.0,59,5,Yes,No,No,High
+C0262,70,Married Filing Jointly,80k-150k,NY,Returning,No,2023,2024-03-22,Individual 1040,Instagram,359,0,359,1055.2,80,5,Yes,No,Yes,High
+C0263,44,Head of Household,40k-80k,AZ,Returning,No,2023,2024-02-16,Individual 1040,Google Search,433,100,533,1396.88,83,5,Yes,No,No,High
+C0264,30,Head of Household,80k-150k,NV,Returning,Yes,2023,2024-06-26,Audit Support,Google Search,303,100,403,669.57,99,4,Yes,No,No,High
+C0265,69,Head of Household,80k-150k,NY,Returning,No,2023,2024-05-22,Small Business,Referral,1134,0,1134,557.02,49,4,Yes,No,No,Medium
+C0266,36,Single,150k-300k,CO,New,No,2023,2024-01-17,Small Business,Website,1102,0,1102,0.0,77,4,Yes,Yes,No,Low
+C0267,48,Single,<40k,CO,Returning,No,2023,2024-05-20,Individual 1040,Facebook,440,100,540,0.0,96,3,Yes,No,No,High
+C0268,38,Head of Household,40k-80k,FL,New,No,2023,2024-03-27,Small Business,Referral,775,0,775,0.0,91,3,Yes,No,No,Medium
+C0269,45,Single,<40k,CA,Returning,Yes,2023,2024-10-08,Individual 1040,Website,439,0,439,2502.27,63,4,Yes,No,No,High
+C0270,72,Single,40k-80k,FL,Returning,No,2023,2024-05-08,Tax Planning Session,Facebook,372,100,472,912.25,67,4,Yes,No,No,Medium
+C0271,27,Single,150k-300k,IL,Returning,No,2023,2024-07-05,Individual 1040,Referral,232,0,232,0.0,30,5,Yes,No,No,Medium
+C0272,39,Single,40k-80k,AZ,New,No,2023,2024-01-08,Individual 1040,Walk-In,206,0,206,0.0,107,5,Yes,No,Yes,High
+C0273,61,Single,<40k,FL,Returning,No,2023,2024-12-20,Amendment,Instagram,291,50,341,927.77,75,5,Yes,No,No,Medium
+C0274,38,Married Filing Jointly,80k-150k,CO,Returning,Yes,2023,2024-07-03,Individual 1040,Google Search,194,0,194,1440.93,101,2,Yes,No,No,Medium
+C0275,59,Single,80k-150k,GA,Returning,No,2023,2024-03-29,Small Business,Referral,1030,150,1180,539.5,96,2,Yes,No,No,Medium
+C0276,28,Head of Household,80k-150k,WA,Returning,Yes,2023,2024-04-07,Individual 1040,Google Search,319,0,319,982.93,92,5,Yes,No,No,High
+C0277,57,Married Filing Jointly,40k-80k,CO,Returning,Yes,2023,2024-05-13,Small Business,Referral,423,50,473,0.0,69,4,Yes,No,No,High
+C0278,53,Married Filing Jointly,<40k,CO,New,Yes,2023,2024-03-08,Small Business,Walk-In,1064,0,1064,0.0,63,5,Yes,No,No,Medium
+C0279,35,Married Filing Separately,40k-80k,TX,Returning,No,2023,2024-02-23,Small Business,Google Search,554,0,554,0.0,70,5,Yes,No,No,High
+C0280,74,Single,150k-300k,NY,Returning,No,2023,2024-01-25,Amendment,Referral,226,100,326,628.48,107,4,Yes,No,No,Low
+C0281,37,Single,80k-150k,AZ,Returning,No,2023,2024-08-29,Individual 1040,Facebook,448,0,448,0.0,138,4,Yes,No,No,High
+C0282,65,Married Filing Jointly,150k-300k,CA,Returning,Yes,2023,2024-01-14,Individual 1040,Google Search,215,0,215,0.0,45,3,Yes,No,No,Medium
+C0283,61,Married Filing Separately,300k+,NY,New,No,2023,2024-02-26,Individual 1040,Instagram,427,0,427,580.89,102,3,Yes,No,Yes,High
+C0284,58,Married Filing Separately,150k-300k,NY,New,No,2023,2024-10-17,Individual 1040,Walk-In,242,0,242,1233.53,78,5,No,No,No,Medium
+C0285,31,Head of Household,40k-80k,TX,New,No,2023,2024-03-18,Individual 1040,Referral,406,0,406,579.86,83,4,No,No,No,High
+C0286,55,Single,40k-80k,CO,Returning,No,2023,2024-02-28,Individual 1040,Referral,377,0,377,0.0,87,4,Yes,No,No,High
+C0287,71,Single,150k-300k,AZ,Returning,No,2023,2024-02-05,Small Business,Google Search,905,0,905,0.0,62,4,Yes,No,Yes,Medium
+C0288,60,Married Filing Jointly,40k-80k,NV,Returning,No,2023,2024-07-22,Amendment,Google Search,193,0,193,0.0,79,2,Yes,Yes,Yes,Medium
+C0289,42,Single,<40k,WA,New,No,2023,2024-04-18,Small Business,Walk-In,971,0,971,0.0,81,4,No,No,No,High
+C0290,34,Married Filing Jointly,40k-80k,NY,Returning,Yes,2023,2024-04-25,Individual 1040,Google Search,357,0,357,2198.9,74,4,Yes,No,No,High
+C0291,33,Head of Household,80k-150k,TX,Returning,No,2023,2024-09-20,Individual 1040,Walk-In,431,100,531,735.49,72,5,Yes,No,Yes,High
+C0292,62,Single,40k-80k,GA,Returning,No,2023,2024-07-29,Individual 1040,Google Search,292,0,292,0.0,115,4,Yes,No,No,Medium
+C0293,48,Head of Household,<40k,FL,Returning,No,2023,2024-04-27,Individual 1040,Google Search,239,100,339,2187.67,76,5,Yes,No,No,High
+C0294,69,Head of Household,<40k,IL,New,No,2023,2024-09-15,Small Business,Facebook,1117,200,1317,0.0,34,3,No,No,Yes,Medium
+C0295,44,Single,150k-300k,NY,Returning,No,2023,2024-09-24,Small Business,Referral,982,0,982,105.92,110,4,Yes,No,Yes,Medium
+C0296,63,Single,80k-150k,CA,Returning,Yes,2023,2024-08-15,Small Business,Instagram,439,0,439,0.0,119,4,Yes,Yes,No,High
+C0297,52,Married Filing Jointly,80k-150k,NY,Returning,No,2023,2024-02-08,Individual 1040,Referral,334,100,434,821.56,102,4,No,No,Yes,High
+C0298,70,Single,<40k,FL,Returning,Yes,2023,2024-07-09,Amendment,Walk-In,270,200,470,0.0,77,5,Yes,No,Yes,Medium
+C0299,73,Head of Household,<40k,CO,New,No,2023,2024-06-17,Tax Planning Session,Referral,445,0,445,206.44,71,3,Yes,No,No,Low
+C0300,70,Single,<40k,WA,New,Yes,2023,2024-03-08,Individual 1040,Google Search,445,0,445,1372.07,98,4,Yes,No,No,Medium
+C0301,42,Head of Household,<40k,AZ,New,No,2023,2024-02-03,Audit Support,Google Search,476,0,476,0.0,50,5,Yes,No,Yes,Medium
+C0302,66,Married Filing Jointly,40k-80k,FL,New,No,2023,2024-05-08,Individual 1040,Facebook,347,0,347,0.0,78,5,No,Yes,Yes,High
+C0303,41,Married Filing Separately,<40k,TX,Returning,No,2023,2024-02-11,Small Business,Website,722,150,872,0.0,67,2,Yes,Yes,No,Low
+C0304,25,Married Filing Jointly,80k-150k,TX,New,No,2023,2024-09-03,Individual 1040,Instagram,352,0,352,0.0,45,5,Yes,No,No,Medium
+C0305,33,Married Filing Jointly,<40k,CA,New,Yes,2023,2024-02-08,Individual 1040,Google Search,295,100,395,1680.04,63,5,Yes,No,No,High
+C0306,57,Single,40k-80k,CO,Returning,Yes,2023,2024-03-05,Tax Planning Session,Website,399,50,449,157.89,98,3,Yes,No,Yes,Medium
+C0307,25,Head of Household,<40k,AZ,New,No,2023,2024-05-03,Individual 1040,Google Search,295,100,395,3268.71,83,4,Yes,No,No,High
+C0308,55,Single,80k-150k,GA,New,No,2023,2024-03-11,Small Business,Instagram,706,0,706,178.79,66,2,Yes,No,No,Medium
+C0309,25,Single,80k-150k,FL,New,No,2023,2024-04-14,Small Business,Google Search,1072,0,1072,0.0,30,5,Yes,No,No,Low
+C0310,67,Head of Household,40k-80k,CA,New,Yes,2023,2024-01-27,Small Business,Website,938,0,938,1010.14,48,4,Yes,No,No,High
+C0311,41,Head of Household,<40k,CO,Returning,No,2023,2024-03-29,Tax Planning Session,Google Search,219,0,219,465.26,32,3,Yes,No,No,Low
+C0312,66,Married Filing Jointly,40k-80k,CO,New,No,2023,2024-06-23,Individual 1040,Referral,348,0,348,512.98,70,4,Yes,No,No,High
+C0313,70,Head of Household,80k-150k,FL,New,No,2023,2024-01-29,Individual 1040,Instagram,442,0,442,0.0,30,5,Yes,Yes,Yes,Medium
+C0314,49,Married Filing Jointly,80k-150k,WA,Returning,No,2023,2024-06-13,Amendment,Walk-In,210,0,210,0.0,88,5,Yes,No,No,High
+C0315,53,Married Filing Jointly,<40k,CO,Returning,No,2023,2024-03-31,Individual 1040,Referral,152,100,252,2825.71,102,2,Yes,No,No,Low
+C0316,57,Head of Household,80k-150k,CA,Returning,No,2023,2024-03-25,Individual 1040,Facebook,192,0,192,830.87,65,5,Yes,Yes,No,High
+C0317,52,Married Filing Jointly,40k-80k,IL,Returning,No,2023,2024-03-29,Tax Planning Session,Website,397,50,447,1027.7,98,4,Yes,No,Yes,High
+C0318,73,Married Filing Jointly,300k+,AZ,Returning,No,2023,2024-10-14,Small Business,Referral,1179,0,1179,0.0,35,2,No,No,No,Low
+C0319,67,Single,40k-80k,CO,New,No,2023,2024-04-24,Small Business,Google Search,433,0,433,687.16,71,3,Yes,Yes,Yes,High
+C0320,30,Single,300k+,GA,Returning,Yes,2023,2024-04-20,Amendment,Facebook,252,100,352,0.0,99,4,Yes,No,Yes,High
+C0321,46,Single,150k-300k,GA,Returning,No,2023,2024-09-16,Small Business,Instagram,553,50,603,723.51,74,1,Yes,Yes,No,Medium
+C0322,24,Married Filing Jointly,<40k,IL,Returning,Yes,2023,2024-02-14,Individual 1040,Google Search,184,200,384,961.37,58,3,Yes,No,No,High
+C0323,47,Single,40k-80k,NY,New,Yes,2023,2024-03-13,Tax Planning Session,Website,357,0,357,557.14,70,5,Yes,No,No,Medium
+C0324,25,Married Filing Jointly,80k-150k,CA,Returning,Yes,2023,2024-03-22,Amendment,Referral,199,0,199,0.0,83,4,Yes,Yes,Yes,High
+C0325,74,Single,<40k,TX,Returning,No,2023,2024-06-24,Small Business,Walk-In,388,0,388,269.62,44,3,Yes,No,Yes,Low
+C0326,35,Head of Household,300k+,AZ,New,No,2023,2024-02-15,Individual 1040,Google Search,272,150,422,1161.76,40,4,Yes,No,No,High
+C0327,38,Head of Household,<40k,CA,New,Yes,2023,2024-09-20,Individual 1040,Website,263,50,313,0.0,50,4,Yes,Yes,No,Medium
+C0328,35,Head of Household,150k-300k,GA,New,Yes,2023,2024-04-30,Tax Planning Session,Google Search,237,0,237,0.0,54,2,Yes,No,No,Medium
+C0329,63,Single,40k-80k,TX,New,No,2023,2024-03-19,Individual 1040,Google Search,211,0,211,2988.79,78,3,Yes,Yes,Yes,High
+C0330,52,Married Filing Jointly,150k-300k,TX,New,No,2023,2024-05-03,Individual 1040,Walk-In,320,0,320,0.0,116,4,Yes,Yes,No,High
+C0331,27,Married Filing Separately,80k-150k,GA,Returning,No,2023,2024-04-05,Individual 1040,Website,295,0,295,0.0,87,5,Yes,No,Yes,High
+C0332,41,Married Filing Jointly,80k-150k,NV,Returning,No,2023,2024-08-06,Small Business,Referral,432,0,432,391.69,72,4,Yes,No,No,High
+C0333,33,Single,40k-80k,WA,Returning,No,2023,2024-01-13,Individual 1040,Instagram,310,0,310,0.0,68,5,Yes,No,No,Medium
+C0334,23,Head of Household,150k-300k,IL,New,No,2023,2024-03-15,Small Business,Walk-In,1134,0,1134,540.96,70,5,Yes,No,No,Medium
+C0335,28,Single,150k-300k,WA,Returning,No,2023,2024-03-25,Individual 1040,Google Search,418,150,568,238.25,72,4,Yes,No,No,Medium
+C0336,33,Married Filing Jointly,<40k,FL,Returning,No,2023,2024-08-09,Small Business,Instagram,682,0,682,0.0,66,4,No,No,No,High
+C0337,36,Single,<40k,GA,New,No,2023,2024-06-27,Individual 1040,Google Search,315,100,415,1734.31,73,5,Yes,Yes,No,High
+C0338,59,Married Filing Separately,150k-300k,WA,Returning,Yes,2023,2024-03-27,Individual 1040,Google Search,177,100,277,95.82,89,5,Yes,No,Yes,Medium
+C0339,45,Head of Household,40k-80k,WA,Returning,No,2023,2024-01-01,Individual 1040,Google Search,254,0,254,1597.79,61,5,No,No,No,High
+C0340,46,Married Filing Jointly,80k-150k,IL,New,No,2023,2024-06-02,Individual 1040,Instagram,197,0,197,0.0,88,4,Yes,No,No,High
+C0341,52,Single,80k-150k,CA,New,No,2023,2024-12-12,Individual 1040,Google Search,354,100,454,758.45,64,3,Yes,Yes,No,Medium
+C0342,71,Married Filing Jointly,<40k,WA,New,No,2023,2024-02-03,Audit Support,Google Search,462,0,462,0.0,71,5,Yes,Yes,Yes,High
+C0343,64,Head of Household,40k-80k,FL,Returning,No,2023,2024-06-21,Individual 1040,Instagram,387,0,387,3210.57,107,5,No,No,No,High
+C0344,46,Single,<40k,WA,New,No,2023,2024-01-01,Individual 1040,Referral,229,50,279,0.0,91,3,Yes,No,No,Low
+C0345,27,Married Filing Jointly,80k-150k,TX,New,No,2023,2024-10-07,Individual 1040,Referral,252,0,252,66.67,82,2,Yes,No,No,Medium
+C0346,52,Single,150k-300k,GA,New,No,2023,2024-07-20,Individual 1040,Google Search,173,150,323,368.68,81,4,Yes,No,No,High
+C0347,41,Married Filing Jointly,40k-80k,WA,New,No,2023,2024-02-05,Amendment,Instagram,219,50,269,508.49,51,3,Yes,No,No,Medium
+C0348,73,Single,150k-300k,AZ,Returning,No,2023,2024-03-04,Individual 1040,Website,285,100,385,119.08,86,4,Yes,No,No,High
+C0349,74,Married Filing Jointly,40k-80k,AZ,New,No,2023,2024-04-07,Tax Planning Session,Walk-In,328,0,328,0.0,54,3,Yes,No,No,Low
+C0350,39,Single,80k-150k,CA,Returning,No,2023,2024-03-09,Individual 1040,Walk-In,249,0,249,1630.58,52,4,Yes,No,No,Low
+C0351,27,Single,<40k,TX,New,Yes,2023,2024-06-06,Individual 1040,Website,352,50,402,1542.83,99,5,No,No,No,High
+C0352,29,Married Filing Jointly,<40k,NV,New,No,2023,2024-04-24,Individual 1040,Google Search,252,0,252,561.61,31,4,Yes,Yes,No,Low
+C0353,65,Single,80k-150k,WA,Returning,Yes,2023,2024-05-25,Individual 1040,Instagram,389,0,389,0.0,41,3,Yes,No,No,Medium
+C0354,62,Single,80k-150k,FL,New,No,2023,2024-07-31,Audit Support,Google Search,226,0,226,948.27,30,5,Yes,No,Yes,High
+C0355,24,Single,40k-80k,TX,New,No,2023,2024-03-19,Individual 1040,Instagram,371,50,421,1042.4,124,5,Yes,No,No,High
+C0356,61,Head of Household,40k-80k,CA,Returning,Yes,2023,2024-01-10,Small Business,Instagram,1125,150,1275,0.0,71,5,Yes,No,No,Medium
+C0357,67,Married Filing Jointly,40k-80k,NV,New,No,2023,2024-04-30,Individual 1040,Walk-In,368,0,368,2485.1,33,5,Yes,No,No,Medium
+C0358,70,Married Filing Jointly,80k-150k,WA,New,No,2023,2024-10-13,Small Business,Referral,625,0,625,342.6,89,2,Yes,No,No,Medium
+C0359,47,Single,<40k,CA,New,No,2023,2024-10-07,Individual 1040,Google Search,329,50,379,0.0,105,3,No,No,No,Low
+C0360,33,Single,<40k,AZ,Returning,No,2023,2024-01-23,Individual 1040,Referral,441,100,541,1573.47,97,3,Yes,No,No,Low
+C0361,63,Married Filing Jointly,40k-80k,NV,Returning,No,2023,2024-07-08,Individual 1040,Facebook,258,100,358,0.0,134,3,Yes,No,No,High
+C0362,58,Head of Household,40k-80k,NV,Returning,No,2023,2024-01-25,Small Business,Website,587,0,587,67.9,30,5,Yes,No,No,Low
+C0363,40,Married Filing Jointly,<40k,IL,Returning,No,2023,2024-03-22,Individual 1040,Referral,228,0,228,0.0,43,5,Yes,No,No,Low
+C0364,59,Married Filing Jointly,<40k,WA,Returning,No,2023,2024-04-04,Individual 1040,Walk-In,235,50,285,0.0,33,4,Yes,No,No,High
+C0365,67,Married Filing Jointly,40k-80k,FL,New,No,2023,2024-06-19,Individual 1040,Website,253,0,253,0.0,36,2,Yes,No,No,Low
+C0366,24,Single,80k-150k,CA,New,No,2023,2024-06-12,Tax Planning Session,Google Search,224,0,224,753.06,104,4,No,No,No,High
+C0367,61,Married Filing Jointly,80k-150k,NV,Returning,No,2023,2024-04-22,Small Business,Google Search,611,0,611,371.22,31,3,Yes,Yes,No,Medium
+C0368,70,Head of Household,<40k,NV,Returning,Yes,2023,2024-03-17,Individual 1040,Website,374,200,574,478.52,98,3,Yes,No,Yes,High
+C0369,55,Married Filing Separately,40k-80k,TX,New,No,2023,2024-04-01,Small Business,Walk-In,378,100,478,187.55,101,4,No,No,Yes,Low
+C0370,60,Head of Household,40k-80k,AZ,Returning,No,2023,2024-07-27,Tax Planning Session,Walk-In,240,0,240,0.0,74,4,Yes,No,No,High
+C0371,41,Single,40k-80k,CO,Returning,No,2023,2024-03-14,Individual 1040,Facebook,294,0,294,0.0,43,4,Yes,No,No,High
+C0372,60,Single,<40k,FL,Returning,No,2023,2024-11-21,Amendment,Google Search,276,0,276,895.88,79,5,Yes,No,No,High
+C0373,54,Single,<40k,CO,Returning,No,2023,2024-09-15,Individual 1040,Instagram,243,0,243,1742.16,80,4,No,No,No,High
+C0374,31,Single,40k-80k,NV,Returning,Yes,2023,2024-05-14,Individual 1040,Walk-In,442,0,442,0.0,62,4,Yes,No,Yes,High
+C0375,56,Married Filing Jointly,150k-300k,FL,New,Yes,2023,2024-02-17,Individual 1040,Facebook,288,100,388,778.0,77,2,Yes,No,No,Medium
+C0376,23,Married Filing Separately,80k-150k,IL,Returning,Yes,2023,2024-11-09,Individual 1040,Instagram,287,0,287,0.0,98,4,Yes,No,No,High
+C0377,28,Single,<40k,CA,Returning,No,2023,2024-04-30,Individual 1040,Facebook,298,100,398,0.0,54,3,Yes,No,No,Low
+C0378,52,Married Filing Jointly,80k-150k,NV,Returning,Yes,2023,2024-04-16,Individual 1040,Instagram,224,100,324,0.0,47,4,Yes,No,Yes,High
+C0379,35,Single,40k-80k,GA,Returning,No,2023,2024-03-27,Individual 1040,Instagram,279,0,279,1114.83,39,5,Yes,No,No,Medium
+C0380,30,Single,80k-150k,GA,Returning,No,2023,2024-05-09,Individual 1040,Referral,156,0,156,1459.49,80,5,Yes,No,No,Low
+C0381,54,Head of Household,40k-80k,TX,New,No,2023,2024-03-08,Individual 1040,Walk-In,226,150,376,1640.14,50,4,No,No,Yes,High
+C0382,26,Single,80k-150k,CO,Returning,Yes,2023,2024-07-03,Tax Planning Session,Google Search,341,200,541,0.0,50,3,Yes,No,No,High
+C0383,57,Married Filing Jointly,40k-80k,FL,New,No,2023,2024-02-15,Small Business,Google Search,1168,0,1168,235.26,116,2,Yes,No,No,Medium
+C0384,41,Head of Household,150k-300k,CA,Returning,No,2023,2024-02-15,Individual 1040,Referral,150,50,200,0.0,53,3,Yes,Yes,No,Medium
+C0385,53,Married Filing Jointly,40k-80k,CA,Returning,No,2023,2024-04-22,Individual 1040,Referral,346,0,346,1625.32,64,4,Yes,No,No,High
+C0386,43,Married Filing Jointly,40k-80k,GA,Returning,Yes,2023,2024-03-01,Amendment,Google Search,225,0,225,233.82,101,5,Yes,No,Yes,High
+C0387,64,Head of Household,150k-300k,CO,Returning,No,2023,2024-03-11,Individual 1040,Referral,308,0,308,0.0,46,3,No,No,No,Low
+C0388,50,Married Filing Jointly,40k-80k,NV,Returning,No,2023,2024-02-07,Individual 1040,Instagram,308,0,308,0.0,82,3,Yes,No,No,Low
+C0389,42,Single,40k-80k,CO,Returning,Yes,2023,2024-03-09,Individual 1040,Facebook,254,0,254,1553.41,55,1,No,Yes,No,Medium
+C0390,32,Married Filing Jointly,150k-300k,TX,Returning,No,2023,2024-03-29,Individual 1040,Google Search,253,0,253,0.0,30,3,Yes,No,No,Low
+C0391,38,Single,150k-300k,CO,Returning,No,2023,2024-04-29,Tax Planning Session,Google Search,470,50,520,1084.25,58,4,Yes,No,No,Medium
+C0392,73,Married Filing Jointly,80k-150k,CO,Returning,Yes,2023,2024-02-01,Small Business,Instagram,455,0,455,0.0,69,4,Yes,No,No,Medium
+C0393,30,Head of Household,80k-150k,FL,New,Yes,2023,2024-04-07,Audit Support,Google Search,450,200,650,66.24,93,2,Yes,No,No,Medium
+C0394,70,Married Filing Jointly,300k+,NY,New,No,2023,2024-01-24,Tax Planning Session,Instagram,271,0,271,194.49,100,4,Yes,No,Yes,High
+C0395,65,Single,80k-150k,CO,Returning,Yes,2023,2024-03-18,Small Business,Referral,382,150,532,547.78,82,4,Yes,Yes,Yes,High
+C0396,36,Single,80k-150k,IL,Returning,No,2023,2024-06-23,Small Business,Website,398,100,498,761.98,45,4,Yes,No,No,High
+C0397,33,Married Filing Jointly,<40k,CO,Returning,Yes,2023,2024-03-23,Individual 1040,Referral,158,150,308,2100.2,53,5,Yes,No,Yes,High
+C0398,25,Single,<40k,CO,New,No,2023,2024-03-26,Small Business,Referral,1001,150,1151,192.59,91,4,Yes,No,Yes,High
+C0399,53,Single,<40k,CO,Returning,No,2023,2024-01-10,Individual 1040,Referral,158,0,158,0.0,68,5,No,No,No,High
+C0400,35,Married Filing Jointly,40k-80k,NY,Returning,Yes,2023,2024-02-23,Tax Planning Session,Referral,202,50,252,0.0,54,4,Yes,No,No,Medium
+C0401,53,Single,40k-80k,TX,Returning,Yes,2023,2024-02-22,Small Business,Walk-In,364,0,364,396.32,80,4,Yes,No,No,High
+C0402,68,Single,150k-300k,NV,New,No,2023,2024-04-16,Tax Planning Session,Google Search,210,0,210,576.67,126,5,Yes,Yes,No,Medium
+C0403,58,Head of Household,150k-300k,CO,New,No,2023,2024-04-12,Individual 1040,Facebook,317,0,317,284.99,99,2,Yes,No,No,Medium
+C0404,47,Married Filing Jointly,40k-80k,AZ,Returning,No,2023,2024-03-24,Audit Support,Walk-In,526,50,576,735.7,104,4,Yes,No,No,High
+C0405,66,Single,40k-80k,NY,New,No,2023,2024-04-12,Audit Support,Google Search,277,0,277,973.34,52,5,Yes,No,No,High
+C0406,53,Single,150k-300k,IL,Returning,Yes,2023,2024-05-09,Tax Planning Session,Instagram,230,0,230,204.54,81,5,Yes,No,No,Medium
+C0407,65,Single,40k-80k,FL,New,No,2023,2024-03-08,Small Business,Referral,782,0,782,798.26,94,5,Yes,No,No,Medium
+C0408,40,Single,<40k,GA,New,No,2023,2024-02-07,Individual 1040,Referral,372,0,372,2504.12,62,3,Yes,No,Yes,Medium
+C0409,32,Single,<40k,AZ,Returning,No,2023,2024-03-24,Individual 1040,Google Search,239,100,339,1370.17,74,1,Yes,No,No,Medium
+C0410,35,Married Filing Jointly,40k-80k,NV,Returning,Yes,2023,2024-04-25,Small Business,Walk-In,514,0,514,0.0,84,5,Yes,No,No,High
+C0411,31,Single,40k-80k,NV,New,No,2023,2024-05-07,Individual 1040,Google Search,219,100,319,129.09,52,2,Yes,No,No,High
+C0412,57,Single,<40k,GA,Returning,No,2023,2024-02-16,Individual 1040,Google Search,406,200,606,0.0,78,5,Yes,No,No,High
+C0413,70,Head of Household,150k-300k,WA,Returning,No,2023,2024-02-19,Individual 1040,Walk-In,383,100,483,0.0,107,5,Yes,No,No,High
+C0414,41,Single,80k-150k,TX,Returning,Yes,2023,2024-11-17,Tax Planning Session,Referral,318,0,318,453.6,67,5,Yes,No,No,High
+C0415,51,Head of Household,80k-150k,GA,New,Yes,2023,2024-04-04,Small Business,Walk-In,586,0,586,414.72,46,4,Yes,Yes,Yes,High
+C0416,74,Married Filing Jointly,150k-300k,WA,Returning,Yes,2023,2024-07-10,Individual 1040,Website,377,50,427,677.57,54,3,Yes,No,No,Low
+C0417,61,Single,40k-80k,TX,Returning,Yes,2023,2024-02-06,Individual 1040,Google Search,344,0,344,2157.7,47,4,Yes,No,No,High
+C0418,52,Single,300k+,CA,New,No,2023,2024-03-23,Individual 1040,Google Search,196,0,196,0.0,89,1,Yes,No,No,Low
+C0419,26,Married Filing Jointly,40k-80k,NY,Returning,Yes,2023,2024-04-09,Small Business,Referral,660,0,660,0.0,78,5,Yes,No,Yes,High
+C0420,36,Married Filing Jointly,40k-80k,WA,New,No,2023,2024-01-02,Individual 1040,Facebook,223,50,273,509.08,99,3,Yes,Yes,No,Medium
+C0421,50,Single,<40k,GA,Returning,No,2023,2024-04-23,Amendment,Website,295,50,345,0.0,84,2,Yes,No,No,Medium
+C0422,62,Single,40k-80k,NY,Returning,Yes,2023,2024-10-21,Individual 1040,Referral,291,150,441,2356.08,79,5,Yes,No,No,Medium
+C0423,52,Married Filing Jointly,40k-80k,FL,Returning,Yes,2023,2024-08-16,Audit Support,Referral,569,0,569,203.72,80,3,Yes,No,No,High
+C0424,28,Single,40k-80k,AZ,Returning,No,2023,2024-01-01,Individual 1040,Google Search,262,0,262,1904.69,124,3,Yes,No,No,Medium
+C0425,47,Married Filing Jointly,<40k,WA,Returning,No,2023,2024-04-16,Amendment,Referral,150,0,150,0.0,58,4,Yes,No,No,Medium
+C0426,24,Married Filing Jointly,40k-80k,CO,Returning,Yes,2023,2024-03-11,Individual 1040,Google Search,352,0,352,0.0,74,5,Yes,No,No,High
+C0427,41,Head of Household,<40k,IL,Returning,Yes,2023,2024-02-02,Tax Planning Session,Walk-In,266,150,416,1267.22,50,4,Yes,No,No,High
+C0428,47,Head of Household,<40k,WA,New,No,2023,2024-02-28,Individual 1040,Instagram,181,0,181,1143.95,81,4,Yes,No,No,Medium
+C0429,49,Married Filing Jointly,150k-300k,FL,Returning,No,2023,2024-03-27,Small Business,Walk-In,1144,0,1144,0.0,119,4,Yes,No,No,High
+C0430,39,Head of Household,150k-300k,IL,New,Yes,2023,2024-01-16,Tax Planning Session,Google Search,347,0,347,63.12,100,5,Yes,No,No,High
+C0431,35,Single,<40k,CO,Returning,No,2023,2024-01-21,Individual 1040,Walk-In,225,50,275,1453.02,86,4,Yes,No,No,High
+C0432,65,Single,40k-80k,AZ,Returning,Yes,2023,2024-05-05,Individual 1040,Instagram,346,50,396,1411.37,67,2,Yes,No,No,Medium
+C0433,58,Single,80k-150k,AZ,New,No,2023,2024-02-19,Small Business,Facebook,527,0,527,810.12,95,5,Yes,No,Yes,High
+C0434,26,Single,40k-80k,IL,New,No,2023,2024-10-03,Small Business,Instagram,556,100,656,137.86,51,5,Yes,No,No,Medium
+C0435,22,Single,150k-300k,AZ,Returning,No,2023,2024-12-04,Small Business,Referral,1199,50,1249,0.0,47,2,Yes,No,No,High
+C0436,62,Married Filing Jointly,150k-300k,FL,New,No,2023,2024-04-14,Individual 1040,Google Search,236,0,236,1174.32,83,5,Yes,No,No,High
+C0437,69,Single,<40k,IL,Returning,No,2023,2024-04-26,Tax Planning Session,Walk-In,198,0,198,481.69,51,2,Yes,No,No,High
+C0438,43,Single,<40k,GA,New,No,2023,2024-04-25,Small Business,Referral,752,50,802,0.0,56,5,Yes,No,No,Medium
+C0439,65,Single,150k-300k,FL,New,No,2023,2024-04-15,Individual 1040,Referral,319,50,369,675.98,66,3,Yes,Yes,No,High
+C0440,28,Married Filing Jointly,40k-80k,AZ,Returning,No,2023,2024-09-10,Individual 1040,Referral,171,0,171,0.0,43,4,Yes,No,No,High
+C0441,29,Single,80k-150k,NV,New,No,2023,2024-08-14,Audit Support,Referral,220,0,220,0.0,81,5,Yes,Yes,No,Medium
+C0442,65,Single,40k-80k,NV,Returning,No,2023,2024-03-20,Individual 1040,Referral,308,50,358,0.0,91,3,Yes,Yes,No,Medium
+C0443,58,Married Filing Jointly,80k-150k,AZ,Returning,No,2023,2024-01-31,Individual 1040,Referral,316,50,366,1581.31,79,3,Yes,No,No,Low
+C0444,52,Single,150k-300k,CA,New,No,2023,2024-06-25,Amendment,Referral,224,0,224,36.45,72,5,Yes,No,No,Medium
+C0445,57,Single,80k-150k,AZ,Returning,Yes,2023,2024-02-07,Individual 1040,Referral,332,0,332,0.0,66,3,Yes,No,No,High
+C0446,31,Single,300k+,CO,New,No,2023,2024-02-03,Individual 1040,Website,152,50,202,0.0,66,4,Yes,Yes,No,High
+C0447,34,Head of Household,<40k,TX,New,No,2023,2024-02-06,Individual 1040,Referral,396,0,396,1378.06,121,5,Yes,No,No,Medium
+C0448,40,Single,150k-300k,CA,Returning,Yes,2023,2024-04-06,Amendment,Referral,166,100,266,1001.46,96,5,Yes,No,No,High
+C0449,50,Single,80k-150k,IL,New,No,2023,2024-01-15,Individual 1040,Instagram,304,50,354,356.08,104,1,Yes,Yes,No,High
+C0450,36,Married Filing Jointly,40k-80k,GA,Returning,Yes,2023,2024-05-16,Individual 1040,Website,322,50,372,1712.75,78,5,Yes,No,Yes,High
+C0451,37,Married Filing Jointly,150k-300k,GA,Returning,No,2023,2024-02-08,Individual 1040,Website,277,0,277,361.11,63,5,Yes,Yes,No,High
+C0452,70,Head of Household,80k-150k,GA,New,No,2023,2024-02-10,Small Business,Facebook,760,0,760,1124.41,67,4,Yes,No,No,Medium
+C0453,33,Married Filing Jointly,80k-150k,TX,New,Yes,2023,2024-05-15,Individual 1040,Website,361,50,411,282.23,42,2,Yes,Yes,No,Low
+C0454,52,Single,150k-300k,FL,Returning,No,2023,2024-01-08,Individual 1040,Referral,349,0,349,0.0,130,4,Yes,No,No,Medium
+C0455,67,Single,<40k,NV,Returning,Yes,2023,2024-09-26,Small Business,Referral,1110,0,1110,342.72,77,5,Yes,No,No,Medium
+C0456,71,Head of Household,<40k,CA,New,No,2023,2024-06-19,Individual 1040,Instagram,398,0,398,1911.84,81,5,Yes,No,No,Medium
+C0457,60,Married Filing Jointly,40k-80k,WA,Returning,Yes,2023,2024-05-30,Individual 1040,Referral,294,0,294,1082.68,65,2,Yes,No,No,High
+C0458,31,Single,40k-80k,AZ,Returning,No,2023,2024-02-04,Small Business,Instagram,1153,50,1203,314.16,102,5,Yes,No,Yes,Medium
+C0459,22,Single,150k-300k,CO,New,No,2023,2024-04-21,Small Business,Google Search,577,50,627,398.89,114,5,Yes,No,No,High
+C0460,40,Single,40k-80k,TX,Returning,No,2023,2024-02-09,Tax Planning Session,Google Search,302,150,452,217.16,87,4,No,No,No,Low
+C0461,25,Married Filing Jointly,80k-150k,GA,Returning,No,2023,2024-07-03,Individual 1040,Google Search,262,50,312,693.09,57,4,Yes,No,Yes,High
+C0462,53,Married Filing Separately,<40k,GA,Returning,Yes,2023,2024-01-26,Small Business,Walk-In,368,0,368,85.66,30,4,Yes,No,No,Medium
+C0463,25,Married Filing Jointly,<40k,NY,New,No,2023,2024-03-24,Individual 1040,Google Search,200,0,200,963.35,45,4,Yes,No,No,Low
+C0464,27,Single,40k-80k,GA,Returning,No,2023,2024-07-30,Small Business,Google Search,565,0,565,1104.59,62,5,Yes,No,No,High
+C0465,37,Single,80k-150k,CA,Returning,Yes,2023,2024-02-04,Small Business,Website,647,150,797,0.0,85,4,Yes,No,No,High
+C0466,27,Single,40k-80k,AZ,Returning,No,2023,2024-03-10,Individual 1040,Referral,208,150,358,2497.66,96,5,Yes,No,Yes,Medium
+C0467,44,Head of Household,300k+,TX,New,Yes,2023,2024-05-31,Tax Planning Session,Google Search,452,200,652,0.0,87,3,Yes,Yes,No,Low
+C0468,60,Married Filing Jointly,40k-80k,CO,Returning,No,2023,2024-02-18,Individual 1040,Google Search,351,100,451,0.0,86,3,Yes,Yes,No,Low
+C0469,40,Single,80k-150k,GA,Returning,No,2023,2024-03-03,Individual 1040,Referral,313,0,313,1246.35,58,4,Yes,Yes,No,High
+C0470,30,Married Filing Jointly,<40k,WA,New,Yes,2023,2024-04-29,Individual 1040,Referral,264,0,264,0.0,70,4,Yes,No,No,High
+C0471,65,Single,<40k,CO,Returning,Yes,2023,2024-03-11,Individual 1040,Google Search,301,150,451,1413.49,102,4,Yes,No,No,High
+C0472,29,Single,40k-80k,WA,Returning,No,2023,2024-04-01,Small Business,Google Search,596,0,596,0.0,84,4,No,No,No,High
+C0473,27,Single,150k-300k,IL,Returning,No,2023,2024-01-31,Amendment,Referral,199,0,199,1197.09,77,5,Yes,Yes,Yes,High
+C0474,51,Married Filing Jointly,40k-80k,TX,Returning,Yes,2023,2024-05-28,Individual 1040,Walk-In,221,0,221,0.0,31,5,Yes,No,No,Medium
+C0475,65,Single,80k-150k,IL,Returning,No,2023,2024-04-01,Individual 1040,Google Search,313,0,313,1575.81,71,4,No,No,No,High
+C0476,73,Head of Household,40k-80k,TX,Returning,No,2023,2024-12-22,Individual 1040,Website,184,0,184,1798.83,111,3,Yes,No,No,Low
+C0477,57,Single,80k-150k,CA,New,No,2023,2024-07-19,Individual 1040,Google Search,181,150,331,0.0,35,4,Yes,No,Yes,High
+C0478,46,Single,80k-150k,CA,Returning,No,2023,2024-01-25,Individual 1040,Facebook,284,100,384,1716.23,95,5,Yes,No,No,Medium
+C0479,50,Head of Household,150k-300k,CA,Returning,No,2023,2024-02-17,Tax Planning Session,Google Search,334,50,384,870.85,104,5,Yes,No,No,Medium
+C0480,45,Head of Household,80k-150k,WA,New,No,2023,2024-04-30,Individual 1040,Google Search,210,0,210,0.0,73,5,No,No,Yes,Medium
+C0481,65,Married Filing Jointly,80k-150k,GA,Returning,No,2023,2024-02-19,Amendment,Google Search,179,150,329,0.0,60,5,Yes,No,No,High
+C0482,39,Single,40k-80k,NY,Returning,No,2023,2024-03-27,Small Business,Google Search,839,0,839,1131.13,67,4,No,Yes,No,High
+C0483,63,Single,<40k,FL,Returning,No,2023,2024-03-03,Small Business,Instagram,835,100,935,0.0,116,5,Yes,No,Yes,High
+C0484,66,Single,<40k,GA,Returning,Yes,2023,2024-03-14,Small Business,Facebook,442,50,492,635.05,72,5,Yes,Yes,No,Medium
+C0485,62,Head of Household,40k-80k,FL,New,Yes,2023,2024-03-22,Tax Planning Session,Google Search,424,0,424,146.91,70,5,Yes,No,No,High
+C0486,44,Married Filing Separately,80k-150k,NY,Returning,Yes,2023,2024-01-06,Individual 1040,Website,400,150,550,790.19,60,1,Yes,No,No,High
+C0487,46,Single,80k-150k,CO,Returning,Yes,2023,2024-03-23,Individual 1040,Referral,278,0,278,770.01,95,5,Yes,No,Yes,High
+C0488,49,Married Filing Jointly,150k-300k,FL,Returning,No,2023,2024-03-22,Individual 1040,Google Search,424,0,424,598.6,68,5,Yes,No,No,High
+C0489,32,Married Filing Jointly,150k-300k,WA,Returning,No,2023,2024-10-27,Individual 1040,Referral,348,0,348,1269.6,48,5,Yes,Yes,No,High
+C0490,73,Single,<40k,TX,Returning,No,2023,2024-06-02,Individual 1040,Referral,413,150,563,0.0,75,3,Yes,No,Yes,Low
+C0491,52,Single,80k-150k,NY,New,Yes,2023,2024-03-11,Amendment,Google Search,262,0,262,13.97,118,4,Yes,No,Yes,High
+C0492,23,Single,40k-80k,CA,Returning,Yes,2023,2024-02-04,Tax Planning Session,Referral,412,100,512,0.0,56,4,Yes,No,Yes,High
+C0493,55,Married Filing Jointly,80k-150k,WA,Returning,No,2023,2024-11-13,Individual 1040,Google Search,314,150,464,1221.28,98,5,No,No,No,High
+C0494,45,Single,40k-80k,NV,Returning,No,2023,2024-08-27,Tax Planning Session,Google Search,257,0,257,1245.92,113,4,Yes,No,No,Medium
+C0495,24,Married Filing Jointly,150k-300k,NY,Returning,Yes,2023,2024-12-22,Individual 1040,Google Search,203,100,303,0.0,46,4,Yes,No,No,High
+C0496,47,Married Filing Jointly,<40k,WA,New,No,2023,2024-08-15,Individual 1040,Google Search,208,0,208,0.0,72,5,Yes,No,No,Medium
+C0497,73,Single,<40k,NY,Returning,Yes,2023,2024-03-07,Individual 1040,Google Search,376,50,426,1845.88,57,4,Yes,No,Yes,High
+C0498,40,Married Filing Jointly,40k-80k,AZ,Returning,No,2023,2024-04-20,Amendment,Referral,252,0,252,624.91,51,2,Yes,No,No,Low
+C0499,68,Single,80k-150k,NY,New,No,2023,2024-06-21,Individual 1040,Website,364,100,464,1505.97,41,4,Yes,No,No,High
+C0500,39,Head of Household,<40k,AZ,New,No,2023,2024-03-02,Amendment,Referral,260,100,360,0.0,66,5,No,No,No,Low
